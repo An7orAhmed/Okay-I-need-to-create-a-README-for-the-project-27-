@@ -1,0 +1,6 @@
+{
+    "port": "COM2",
+    "configuration": "cpu=atmega328",
+    "board": "arduino:avr:nano",
+    "sketch": "IoT_ATM_FP.ino"
+}
